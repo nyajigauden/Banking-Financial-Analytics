@@ -1,0 +1,18 @@
+BANKING & FINANCIAL TRANSACTIONS ANALYTICS REPORT
+=======================================================
+
+DATASET OVERVIEW
+Total transactions: 100
+Total transaction amount: TZS 34,050,000.00
+Average transaction amount: TZS 340,500.00
+Largest transaction: TZS 2,500,000.00
+Smallest transaction: TZS 5,000.00
+
+KEY FINDINGS
+Transaction type with the highest total amount: Transfer
+Location with the highest total amount: Dar es Salaam
+Number of flagged transactions: 11
+Amount associated with flagged transactions: TZS 14,800,000.00
+
+IMPORTANT NOTE
+Flagged transactions require further review. They should not automatically be treated as confirmed fraud.

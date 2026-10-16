@@ -1,0 +1,101 @@
+TransactionID,CustomerID,AccountType,TransactionType,Amount,TransactionDate,Channel,Location,IsFlagged
+TXN1001,CUST001,Savings,Deposit,150000.0,2026-09-01,Mobile,Dar es Salaam,No
+TXN1002,CUST002,Current,Withdrawal,80000.0,2026-09-01,ATM,Arusha,No
+TXN1003,CUST003,Savings,Transfer,250000.0,2026-09-02,Online,Dar es Salaam,No
+TXN1004,CUST001,Savings,Payment,45000.0,2026-09-02,Mobile,Dodoma,No
+TXN1005,CUST004,Business,Deposit,1200000.0,2026-09-03,Branch,Mwanza,No
+TXN1006,CUST005,Current,Withdrawal,500000.0,2026-09-03,ATM,Dar es Salaam,No
+TXN1007,CUST002,Current,Transfer,175000.0,2026-09-04,Online,Arusha,No
+TXN1008,CUST006,Savings,Payment,35000.0,2026-09-04,Mobile,Mwanza,No
+TXN1009,CUST007,Business,Withdrawal,2500000.0,2026-09-05,Branch,Dar es Salaam,Yes
+TXN1010,CUST003,Savings,Deposit,300000.0,2026-09-05,Mobile,Dodoma,No
+TXN1011,CUST008,Current,Transfer,450000.0,2026-09-06,Online,Arusha,No
+TXN1012,CUST004,Business,Payment,90000.0,2026-09-06,Mobile,Mwanza,No
+TXN1013,CUST009,Savings,Withdrawal,120000.0,2026-09-07,ATM,Dar es Salaam,No
+TXN1014,CUST005,Current,Deposit,700000.0,2026-09-07,Branch,Dodoma,No
+TXN1015,CUST007,Business,Transfer,1800000.0,2026-09-08,Online,Dar es Salaam,Yes
+TXN1016,CUST013,Savings,Payment,90000.0,2026-09-03,Branch,Dodoma,No
+TXN1017,CUST018,Current,Deposit,50000.0,2026-09-22,Online,Dar es Salaam,No
+TXN1018,CUST015,Savings,Transfer,700000.0,2026-09-06,Online,Arusha,No
+TXN1019,CUST017,Current,Deposit,300000.0,2026-09-27,ATM,Dodoma,No
+TXN1020,CUST011,Savings,Withdrawal,10000.0,2026-09-20,Mobile,Dodoma,No
+TXN1021,CUST008,Business,Transfer,175000.0,2026-09-02,Mobile,Dar es Salaam,No
+TXN1022,CUST018,Current,Payment,250000.0,2026-09-03,ATM,Mwanza,No
+TXN1023,CUST020,Savings,Withdrawal,120000.0,2026-09-17,ATM,Arusha,No
+TXN1024,CUST012,Savings,Transfer,700000.0,2026-09-22,Branch,Dar es Salaam,No
+TXN1025,CUST011,Savings,Withdrawal,80000.0,2026-09-03,ATM,Arusha,No
+TXN1026,CUST002,Savings,Deposit,50000.0,2026-09-23,Mobile,Dodoma,No
+TXN1027,CUST016,Savings,Deposit,150000.0,2026-09-09,ATM,Mwanza,No
+TXN1028,CUST014,Savings,Withdrawal,500000.0,2026-09-26,Mobile,Mwanza,Yes
+TXN1029,CUST015,Business,Transfer,700000.0,2026-09-14,Mobile,Dar es Salaam,No
+TXN1030,CUST011,Current,Deposit,700000.0,2026-09-24,Mobile,Arusha,No
+TXN1031,CUST015,Savings,Withdrawal,80000.0,2026-09-18,ATM,Dodoma,No
+TXN1032,CUST003,Savings,Payment,15000.0,2026-09-28,Mobile,Dar es Salaam,No
+TXN1033,CUST008,Savings,Deposit,50000.0,2026-09-30,Branch,Mwanza,No
+TXN1034,CUST002,Savings,Withdrawal,250000.0,2026-09-29,Mobile,Mwanza,No
+TXN1035,CUST014,Current,Transfer,1800000.0,2026-09-10,Branch,Arusha,Yes
+TXN1036,CUST002,Current,Withdrawal,120000.0,2026-09-07,Mobile,Dodoma,No
+TXN1037,CUST016,Savings,Deposit,15000.0,2026-09-19,ATM,Dar es Salaam,No
+TXN1038,CUST020,Savings,Deposit,100000.0,2026-09-03,ATM,Mwanza,No
+TXN1039,CUST020,Savings,Deposit,150000.0,2026-09-19,Mobile,Mwanza,No
+TXN1040,CUST011,Savings,Transfer,250000.0,2026-09-07,Branch,Arusha,No
+TXN1041,CUST003,Savings,Transfer,1800000.0,2026-09-11,Mobile,Dar es Salaam,Yes
+TXN1042,CUST012,Business,Withdrawal,120000.0,2026-09-05,ATM,Dodoma,No
+TXN1043,CUST018,Current,Transfer,90000.0,2026-09-15,Mobile,Dodoma,No
+TXN1044,CUST004,Business,Deposit,100000.0,2026-09-09,ATM,Dodoma,No
+TXN1045,CUST011,Savings,Transfer,175000.0,2026-09-23,Online,Mwanza,No
+TXN1046,CUST014,Current,Transfer,20000.0,2026-09-03,Mobile,Dar es Salaam,No
+TXN1047,CUST009,Savings,Transfer,90000.0,2026-09-21,Branch,Mwanza,No
+TXN1048,CUST005,Savings,Deposit,50000.0,2026-09-03,Online,Arusha,No
+TXN1049,CUST010,Savings,Payment,15000.0,2026-09-02,Mobile,Dodoma,No
+TXN1050,CUST004,Savings,Withdrawal,80000.0,2026-09-22,Branch,Arusha,No
+TXN1051,CUST006,Business,Withdrawal,35000.0,2026-09-26,Mobile,Arusha,No
+TXN1052,CUST008,Savings,Transfer,700000.0,2026-09-26,Mobile,Mwanza,No
+TXN1053,CUST007,Current,Deposit,1200000.0,2026-09-08,Branch,Dodoma,Yes
+TXN1054,CUST001,Current,Transfer,175000.0,2026-09-08,Branch,Dodoma,No
+TXN1055,CUST009,Savings,Transfer,45000.0,2026-09-25,Branch,Dodoma,No
+TXN1056,CUST009,Savings,Deposit,50000.0,2026-09-29,Online,Dar es Salaam,No
+TXN1057,CUST011,Savings,Deposit,700000.0,2026-09-12,Mobile,Mwanza,No
+TXN1058,CUST014,Savings,Withdrawal,120000.0,2026-09-02,ATM,Dodoma,No
+TXN1059,CUST011,Current,Payment,5000.0,2026-09-22,Mobile,Dodoma,No
+TXN1060,CUST013,Current,Transfer,700000.0,2026-09-11,ATM,Arusha,No
+TXN1061,CUST006,Current,Payment,120000.0,2026-09-13,Online,Mwanza,No
+TXN1062,CUST007,Savings,Deposit,300000.0,2026-09-10,Online,Mwanza,No
+TXN1063,CUST007,Savings,Payment,45000.0,2026-09-22,ATM,Dar es Salaam,No
+TXN1064,CUST008,Current,Transfer,450000.0,2026-09-03,ATM,Arusha,No
+TXN1065,CUST008,Business,Withdrawal,10000.0,2026-09-02,Mobile,Mwanza,No
+TXN1066,CUST007,Current,Payment,120000.0,2026-09-19,Branch,Mwanza,No
+TXN1067,CUST001,Business,Payment,15000.0,2026-09-05,Mobile,Mwanza,No
+TXN1068,CUST017,Savings,Withdrawal,35000.0,2026-09-26,ATM,Dar es Salaam,No
+TXN1069,CUST015,Current,Payment,15000.0,2026-09-26,Online,Mwanza,No
+TXN1070,CUST018,Savings,Payment,250000.0,2026-09-30,ATM,Mwanza,No
+TXN1071,CUST008,Current,Payment,35000.0,2026-09-25,Online,Mwanza,No
+TXN1072,CUST003,Current,Withdrawal,120000.0,2026-09-15,ATM,Dodoma,No
+TXN1073,CUST018,Savings,Transfer,450000.0,2026-09-29,ATM,Arusha,No
+TXN1074,CUST007,Savings,Payment,120000.0,2026-09-05,Branch,Dodoma,No
+TXN1075,CUST007,Current,Payment,45000.0,2026-09-02,Branch,Dar es Salaam,No
+TXN1076,CUST012,Savings,Payment,45000.0,2026-09-01,Branch,Mwanza,No
+TXN1077,CUST009,Savings,Withdrawal,500000.0,2026-09-08,Mobile,Mwanza,Yes
+TXN1078,CUST006,Current,Transfer,700000.0,2026-09-24,ATM,Dar es Salaam,No
+TXN1079,CUST001,Savings,Payment,90000.0,2026-09-19,Branch,Arusha,No
+TXN1080,CUST009,Savings,Payment,15000.0,2026-09-02,ATM,Mwanza,No
+TXN1081,CUST013,Savings,Transfer,450000.0,2026-09-25,Branch,Dodoma,No
+TXN1082,CUST018,Savings,Deposit,1200000.0,2026-09-01,Online,Arusha,Yes
+TXN1083,CUST001,Business,Deposit,15000.0,2026-09-25,ATM,Dar es Salaam,No
+TXN1084,CUST016,Current,Withdrawal,80000.0,2026-09-05,ATM,Mwanza,No
+TXN1085,CUST020,Current,Transfer,450000.0,2026-09-06,Mobile,Arusha,No
+TXN1086,CUST001,Business,Transfer,45000.0,2026-09-19,Branch,Mwanza,No
+TXN1087,CUST008,Savings,Withdrawal,25000.0,2026-09-19,Online,Dar es Salaam,No
+TXN1088,CUST014,Current,Deposit,500000.0,2026-09-18,Mobile,Dodoma,No
+TXN1089,CUST016,Savings,Deposit,700000.0,2026-09-27,Online,Mwanza,No
+TXN1090,CUST017,Business,Withdrawal,250000.0,2026-09-06,Online,Mwanza,No
+TXN1091,CUST019,Savings,Payment,45000.0,2026-09-27,ATM,Dar es Salaam,No
+TXN1092,CUST015,Current,Transfer,1800000.0,2026-09-08,Branch,Dodoma,Yes
+TXN1093,CUST011,Savings,Deposit,1200000.0,2026-09-28,ATM,Dodoma,Yes
+TXN1094,CUST020,Current,Transfer,450000.0,2026-09-09,Online,Dar es Salaam,No
+TXN1095,CUST014,Savings,Withdrawal,25000.0,2026-09-08,ATM,Mwanza,No
+TXN1096,CUST001,Savings,Payment,45000.0,2026-09-26,ATM,Mwanza,No
+TXN1097,CUST019,Savings,Withdrawal,120000.0,2026-09-22,Online,Mwanza,No
+TXN1098,CUST015,Savings,Transfer,450000.0,2026-09-23,Online,Arusha,No
+TXN1099,CUST004,Current,Deposit,150000.0,2026-09-11,ATM,Arusha,No
+TXN1100,CUST019,Business,Withdrawal,500000.0,2026-09-09,Online,Dar es Salaam,Yes
